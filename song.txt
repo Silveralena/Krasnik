@@ -1,9 +1,5 @@
-HAPPY NEAY EAR 
-<<<<<<< HEAD
-HAPPY NEAY EAR 
+One of the last experians
+that I had in QA testing
+was WEB site
 
-HAPPY NEAY EAR 2
-HAPPY NEAY EAR 2
-=======
-HAPPY NEAY EAR 
->>>>>>> 51d8d65be91380a53776692795d3a081b69edbad
+
